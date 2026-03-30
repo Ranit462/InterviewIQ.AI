@@ -6,6 +6,9 @@ function home() {
            <div className=' bg-amber-300'>
             home
            </div>
+           <div className='bg-amber-600 w-full'>
+            on working
+           </div>
         </div>
     )
 }
