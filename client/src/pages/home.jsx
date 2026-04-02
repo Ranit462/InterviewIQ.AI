@@ -2,14 +2,17 @@ import React from 'react'
 
 function home() {
     return (
-        <div className='bg-amber-400'>
-           <div className=' bg-amber-300'>
-            home
+        <div className='bg-white-200'>
+           <div className=' bg-blue-200'>
+           <div>INTERVIEW.IQ</div>
+           <div></div>
            </div>
-           <div className='bg-amber-600 w-full'>
-           <p>comming soon</p>
+          <div>
+          on working comming soon..
+          </div>
+          
 
-           </div>
+           
         </div>
     )
 }
