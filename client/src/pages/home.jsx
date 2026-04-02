@@ -7,7 +7,8 @@ function home() {
             home
            </div>
            <div className='bg-amber-600 w-full'>
-            on working
+           <p>comming soon</p>
+
            </div>
         </div>
     )
